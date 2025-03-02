@@ -259,7 +259,7 @@ async function home(filter) {
 export default {
     meta: {
         key: 'nongmin',
-        name: '🟢 农民',
+        name: '农民',
         type: 3,
     },
    api: async (fastify) => {
