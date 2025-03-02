@@ -464,7 +464,7 @@ async function test(inReq, outResp) {
 export default {
     meta: {
         key: 'libvio',
-        name: '🟢 立波',
+        name: '立波',
         type: 3,
     },
     api: async (fastify) => {
