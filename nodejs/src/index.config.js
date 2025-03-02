@@ -25,30 +25,21 @@ export default {
         categories: "经典无损音乐合集#帕梅拉#太极拳#健身#舞蹈#音乐#歌曲#MV4K#演唱会4K#白噪音4K#知名UP主#说案#解说#演讲#时事#探索发现超清#纪录片超清#沙雕动画#沙雕穿越#沙雕#平面设计教学#软件教程#实用教程#旅游#风景4K#食谱#美食超清#搞笑#球星#动物世界超清#相声小品#戏曲#儿童#小姐姐4K#热门#旅行探险",
         cookie: "buvid3=2EE7714E-396D-8B09-96FE-3D18B35CBD6E30391infoc; b_nut=1687691130; _uuid=6BEEEC104-35AF-A652-D66C-A61037EB9CCEF31032infoc; CURRENT_FNVAL=4048; rpdid=|(J~|~u~R||R0J'uY)~Ymm~~l; header_theme_version=CLOSE; fingerprint=979e0297d71b5da7d33048fd0f2105a6; buvid_fp_plain=undefined; buvid4=D599A569-8697-E141-B839-77A458D75A3432132-023062519-8ql5Wnsq%2BQ6f%2BEcmn2YT1A%3D%3D; enable_web_push=DISABLE; buvid_fp=979e0297d71b5da7d33048fd0f2105a6; hit-dyn-v2=1; home_feed_column=5; PVID=1; FEED_LIVE_VERSION=V_FAVOR_WATCH_LATER; browser_resolution=1599-821; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTA3NzMyNzAsImlhdCI6MTcxMDUxNDAxMCwicGx0IjotMX0.aGEuplXBVtg3SsfVeiC37aO4j-RBnnz67J4TzxtD3IA; bili_ticket_expires=1710773210; bp_video_offset_1679307957=909120323202318338; CURRENT_QUALITY=80; SESSDATA=0b9e2f11%2C1726068775%2Cbe3a3%2A32CjCp-4wRSorM2ubk-A5LfLd72V9iOeCfrTDWjUZmfmPKGxd4pKhcIKHbkJl4yXbibT8SVkF3TnhVSmtxb05ZU0N4Q05LdVA1MXdDX3ZHNDdrT1hkU3FDY3dHYUFEQURuc0w4U1RzanZ2RXJvOXVQaFRrMUV5VjJBVlJSWmI3VWo5aUx6eUczcDR3IIEC; bili_jct=21a583be26b77f6f990df8cd4563eb0d; DedeUserID=3546647141288212; DedeUserID__ckMd5=6d38879780c538a1; b_lsid=FA49D8A5_18E4C7DD168"
     },
-  live: {
-    contents: "https://gitee.com/galnt/cctv/raw/master/contents.txt", 
+ live: {
+    contents: "https://gitee.com/q13ad/hg/raw/master/tai.txt",
+    // 按省区分的目录,供参考,可以不添加
     url: [
-      {
-        name: "肥羊 ",
-        url: "https://iptv.887979.xyz/tv.m3u",
-      },
-      {
-        name: "肥羊 ",
-        url: "https://live.wqwqwq.sbs/tv.m3u",
-      },
-      {
-        name: "港台 ",
-        url: "https://4g.wqwqwq.sbs/iptv.m3u",
-      },
-      {
-        name: "体育 ",
-        url: "https://tv.iill.top/m3u/Sport",
-      }
+      { name: "n ", url: "https://github.moeyy.xyz//https://raw.githubusercontent.com/chen1363/h/refs/heads/main/n.m3u", index: "true" },
+         { name: "aptv ", url: "https://github.moeyy.xyz//https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u", index: "true" },
+        { name: "yue ", url: "https://github.moeyy.xyz//https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u", index: "true" },
+       
+      { name: "ap ", url: "https://github.moeyy.xyz//https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u" , index: "true"}
+    
     ]
   },
 
 wogg: {
-    url: 'https://www.wogg.net',
+    url: 'https://wogg.xxooo.cf',
 },
 tudou: {
     url: 'https://tudou.lvdoui.top',
@@ -89,6 +80,14 @@ appys: {
         }],
     },
 m3u8cj: {
+	 ffm3u8: [{      name: "非凡采集",      url: "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",      categories: ["国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "短剧", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "动漫片", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "记录片"],      search: true    }],    
+hhm3u8: [{      name: "火狐采集",      url: "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/",      categories: ["动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "灾难片", "悬疑片", "犯罪片", "奇幻片", "短剧", "内地剧", "欧美剧", "香港剧", "韩剧", "日剧", "马泰剧", "中国动漫", "日本动漫", "欧美动漫", "欧美动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "记录片"],      search: true    }],    
+     lsm3u8: [{      name: "淘片采集",      url: "https://taopianapi.com/cjapi/mc10/vod/xml.html",      categories: ["动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "犯罪片", "奇幻片", "灾难片", "悬疑片", "动画片", "短剧", "国产剧", "欧美剧", "香港剧", "韩国剧", "日剧", "台湾剧", "海外剧", "泰国剧", "国产动漫", "日本动漫", "欧美动漫", "海外动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "纪录片"],      search: true    }], 
+     lzm3u8: [{      name: "量子采集",      url: "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",      categories: ["动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "短剧", "国产剧", "欧美剧", "香港剧", "韩国剧", "日本剧", "台湾剧", "海外剧", "泰国剧", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "记录片", "足球", "篮球", "网球", "斯诺克"],      search: true    }],    subm3u8: [{      name: "速播采集",      url: "https://subocaiji.com/api.php/provide/vod/from/subm3u8/",      categories: ["动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "动漫电影", "短剧", "大陆剧", "美剧", "港澳剧", "韩剧", "日剧", "台湾剧", "泰剧", "中国动漫", "日本动漫", "欧美动漫", "综艺", "纪录片"],      search: true    }],
+    hnm3u8: [{      name: "红牛采集",      url: "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/",      categories: ["动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "动漫电影", "短剧", "国产剧", "欧美剧", "港澳剧", "韩剧", "日剧", "台湾剧", "泰剧", "动漫", "综艺", "纪录片", "体育赛事"],      search: true    }],    xlm3u8: [{      name: "新浪采集",      url: "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/",      categories: ["动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "动漫电影", "短剧", "大陆剧", "欧美剧", "港澳剧", "韩剧", "日剧", "台湾剧", "泰剧", "动漫", "综艺", "纪录片", "体育"],      search: true    }],
+    baidu: [{      name: "百度采集",      url: "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/",      categories: ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "悬疑片", "邵氏电影", "电影资讯", "明星资讯", "预告片"],      search: true    }],
+    kuaikan: [{      name: "快看采集",      url: "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",      categories: ["网络电影", "惊悚片", "犯罪片", "灾难片", "悬疑片", "爱情片", "喜剧片", "奇幻片", "恐怖片", "剧情片", "战争片", "动作片", "冒险片", "动画电影", "热门短剧", "国产剧", "欧美剧", "港台剧", "韩国剧", "日本剧", "台剧", "泰剧", "国产动漫", "日本动漫", "欧美动漫", "港台动漫", "韩国动漫", "国产综艺", "日本综艺", "港台综艺", "欧美综艺", "韩国综艺", "纪录片", "电影解说"],      search: true    }],
+    wjm3u8: [{      name: "无尽采集",      url: "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/",      categories: ["动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "悬疑片", "动画片", "犯罪片", "奇幻片", "邵氏电影", "短剧", "国产剧", "美国剧", "香港剧", "韩国剧", "日本剧", "台湾剧", "泰剧", "海外剧", "国产动漫", "日韩动漫", "欧美动漫", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "体育赛事", "影视解说"],      search: true    }],
     ykm3u8: [{
       name: "易看源",
       url: "https://api.yikanapi.com/api.php/provide/vod/from/yikan",
