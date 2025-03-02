@@ -423,7 +423,7 @@ async function test(inReq, outResp) {
 export default {
     meta: {
         key: 'live',
-        name: '🟢 直播',
+        name: '电视直播',
         type: 3,
     },
     api: async (fastify) => {
