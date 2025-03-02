@@ -524,7 +524,7 @@ async function test(inReq, outResp) {
 export default {
     meta: {
         key: 'ikanbot',
-        name: '🟢 爱看',
+        name: '爱看',
         type: 3,
     },
     api: async (fastify) => {
