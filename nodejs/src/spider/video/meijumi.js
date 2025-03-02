@@ -231,7 +231,7 @@ async function test(inReq, outResp) {
 export default {
     meta: {
         key: 'meijumi',
-        name: '🟢 美剧',
+        name: '美剧',
         type: 3,
     },
     api: async (fastify) => {
