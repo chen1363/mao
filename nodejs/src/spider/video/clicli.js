@@ -267,7 +267,7 @@ async function search(inReq, outResp) {
 export default {
     meta: {
         key: 'clicli',
-        name: '🟢 C站',
+        name: 'C站',
         type: 3,
     },
     api: async(fastify) => {
