@@ -372,7 +372,7 @@ async function test(inReq, outResp) {
 export default {
     meta: {
         key: 'huya',
-        name: '🟢 虎牙',
+        name: '虎牙',
         type: 3,
     },
     api: async (fastify) => {
