@@ -474,7 +474,7 @@ async function request(reqUrl) {
     export default {
         meta: {
             key: 'xzys',
-            name: '🟢 校长',
+            name: '校长',
             type: 3,
         },
         api: async (fastify) => {
