@@ -122,7 +122,7 @@ async function search(inReq, _outResp) {
 export default {
     meta: {
         key: 'yunpanres',
-        name: '🟢 云盘',
+        name: '云盘',
         type: 3,
     },
     api: async (fastify) => {
