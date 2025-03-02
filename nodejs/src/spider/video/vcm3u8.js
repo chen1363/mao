@@ -296,7 +296,7 @@ async function test(inReq, outResp) {
 export default {
     meta: {
         key: 'vcm3u8',
-        name: '🟢 采集',
+        name: '采集合集',
         type: 3,
     },
     api: async (fastify) => {
