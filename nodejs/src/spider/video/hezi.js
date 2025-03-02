@@ -1111,7 +1111,7 @@ async function test(inReq, outResp) {
 export default {
     meta: {
         key: 'hezi',
-        name: '🟢 盒子',
+        name: '盒子',
         type: 3,
     },
     api: async(fastify) => {
