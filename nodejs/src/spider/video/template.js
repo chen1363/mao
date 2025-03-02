@@ -309,7 +309,7 @@ async function test(inReq, outResp) {
 export default {
     meta: {
         key: 'template',
-        name: '🟢 模板',
+        name: '模板',
         type: 3,
     },
     api: async (fastify) => {
