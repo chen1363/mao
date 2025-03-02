@@ -224,7 +224,7 @@ async function test(inReq, outResp) {
 export default {
     meta: {
         key: 'cntv',
-        name: '🟢 央视',
+        name: '央视',
         type: 3,
     },
     api: async (fastify) => {
